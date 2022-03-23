@@ -21,6 +21,9 @@ A race which looks for all kinds of life in the universe. The goal is to discree
 ### General
 In general, gameplay consists of conflicts between the warring factions on a number of contested worlds.
 
+### Genres
+The game will display characteristics of RTS, FPS with elements of RPG and MMO.
+
 ### Classes of players
 #### Commanders
 *Commanders* are players who control the faction armies. They are responsible for a strategic planning. One army would typically have multiple commanders each occupied with a specific role.
