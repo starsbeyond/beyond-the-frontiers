@@ -50,4 +50,4 @@ Souls are free to execute the order freely as long as the objective is followed,
 
 The commanders cannot control any unit directly. Direct control is reserved for souls or the in-game AI only.
 
-A soul could terminate its own connection themselves, however this will result in a ranking penalty.
+A soul could terminate their own connection themselves, however this will result in a ranking penalty.
