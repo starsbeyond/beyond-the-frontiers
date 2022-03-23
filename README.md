@@ -34,7 +34,7 @@ Souls have to follow the orders of the commanders, otherwise commanders may term
 Pool is a collection of souls available for commanders to stream into units. Commanders don't have a direct access to souls in the pool, but they merely can request a non-particular soul from it.
 
 #### Ranking
-Every player, bothj commanders and souls, have their own rank in a faction. The once chosen faction can't be changed. Ranking is calculated automatically and extensive statistics is being collected.
+Every player, bothj commanders and souls, have their own rank in a faction. The once chosen faction can't be changed. Ranking and faction loyalty is calculated automatically and extensive statistics is being collected.
 
 The ranking of a soul helps the system to pick the most suitable player to streaming into a particular unit.
 
@@ -42,3 +42,12 @@ The commander ranking will help putting the most capable players to lead an army
 
 ### In-game AI
 The ranking system and commanders/souls management is automatically performed by the in-game AI. There is no way for commanders to pick a particular soul, only request a new one (or a replacement) from the AI when necessary.
+
+### Orders and chain of command
+Commanders are responsible for strategy and orders. Souls are responsible for order execution. The order could be as simple as "destroy the target unit" or more complex as "conquer and hold on to the target territory".
+
+Souls are free to execute the order freely as long as the objective is followed, however if commanders are not satisfied with the performance of a particular unit, its connection could be immediately terminated and another soul requested from the pool or the AI will take over.
+
+The commanders cannot control any unit directly. Direct control is reserved for souls or the in-game AI only.
+
+A soul could terminate its own connection themselves, however this will result in a ranking penalty.
