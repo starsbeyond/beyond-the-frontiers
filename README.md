@@ -33,7 +33,7 @@ Souls have to follow the orders of the commanders, otherwise commanders may term
 ##### Pool
 Pool is a collection of souls available for commanders to stream into units. Commanders don't have a direct access to souls in the pool, but they merely can request a non-particular soul from it.
 
-### Ranking
+#### Ranking
 Every player, bothj commanders and souls, have their own rank in a faction. The once chosen faction can't be changed. Ranking is calculated automatically and extensive statistics is being collected.
 
 The ranking of a soul helps the system to pick the most suitable player to streaming into a particular unit.
