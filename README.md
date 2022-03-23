@@ -31,7 +31,7 @@ In general, gameplay consists of conflicts between the warring factions on a num
 Souls have to follow the orders of the commanders, otherwise commanders may terminate the *connection* or replace it with another soul from the pool.
 
 ##### Pool
-Pool is a collection of souls available for commanders to stream into units.
+Pool is a collection of souls available for commanders to stream into units. Commanders don't have a direct access to souls in the pool, but they merely can request a non-particular soul from it.
 
 ### Ranking
 Every player, bothj commanders and souls, have their own rank in a faction. The once chosen faction can't be changed. Ranking is calculated automatically and extensive statistics is being collected.
