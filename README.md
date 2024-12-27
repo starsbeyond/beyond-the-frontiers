@@ -2,6 +2,10 @@
 
 Beyond the Frontiers (working title) is a could-be multigenre multiplayer game with exceptionally high number of concurrent players competing against each other on behalf of a faction.
 
+## Genre
+
+The game will display characteristics of RTS, FPS with elements of RPG and MMO.
+
 ## Universe
 
 A deep space with a vast number of diverse worlds. Initially only one world (planet) will be available.
@@ -31,10 +35,6 @@ An artificial race controlled by AI. Has an unknown agenda at the start of the c
 ### General
 
 In general, gameplay consists of conflicts between the warring factions on a number of contested worlds.
-
-### Genres
-
-The game will display characteristics of RTS, FPS with elements of RPG and MMO.
 
 ### Classes of players
 
