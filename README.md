@@ -1,6 +1,6 @@
 # Beyond the Frontiers
 
-Beyond the Frontiers is a could-be multigenre multiplayer game with exceptionally high number of concurrent players competing against each other on behalf of a faction.
+Beyond the Frontiers (working title) is a could-be multigenre multiplayer game with exceptionally high number of concurrent players competing against each other on behalf of a faction.
 
 ## Universe
 
