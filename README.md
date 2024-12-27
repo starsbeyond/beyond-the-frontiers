@@ -44,7 +44,7 @@ In general, gameplay consists of conflicts between the warring factions on a num
 
 #### Souls
 
-*Souls* are players, who temporarily take hold and control army units. Some *units* require multiple souls to operate. Souls are *streamed* into units and this requires the infrastructure to be intact. At any time p[roblem with infrastructure may interfere with soul streaming and the unit will be abandoned, that is controlled by AI, which in general is inferior to the actual players.
+*Souls* are players, who temporarily take hold and control army units. Some *units* require multiple souls to operate. Souls are *streamed* into units and this requires the infrastructure to be intact. At any time problem with infrastructure may interfere with soul streaming and the unit will be abandoned, that is controlled by AI, which in general is inferior to the actual players.
 
 Souls have to follow the orders of the commanders, otherwise commanders may terminate the *connection* or replace it with another soul from the pool.
 
