@@ -1,10 +1,10 @@
 # Beyond the Frontiers
 
-Beyond the Frontiers is a could-be multigenre multiplayer game with unusually high number of concurrent players competing against each other on behalf of a faction.
+Beyond the Frontiers is a could-be multigenre multiplayer game with exceptionally high number of concurrent players competing against each other on behalf of a faction.
 
 ## Universe
 
-A deep space with a vast number of diverse worlds.
+A deep space with a vast number of diverse worlds. Initially only one world (planet) will be available.
 
 ### Time
 
@@ -16,13 +16,15 @@ A few post-scarcity factions warring with each other for influence. Resources ar
 
 ### Factions
 
-#### The Transcended
+Initially only two races available, with ony one of them playable. The player-controlled race vs. AI. The AI race is both presented as an artificial intelligence in-game and will also be played by AI, with possible interference from game masters when needed for narrative purposes.
 
-A multi-planetary race looking to expand its sphere of influence. Already reached far past its own home system. Most of the race is non-corporeal, but still have  big interest and assets in the physical world.
+#### Transcended
 
-#### Vlai
+A multi-planetary race looking to expand its sphere of influence. Already reached far past its own home system. Most of the race is non-corporeal, but still have big interest and assets in the physical world.
 
-A race which looks for all kinds of life in the universe. The goal is to discreetly integrate into as many as possible other life forms by means of host race DNA hijacking or genetic manipulation. The goal is preservation and increase of DNA variety.
+#### V
+
+An artificial race controlled by AI. Has an unknown agenda at the start of the conflict.
 
 ## Gameplay
 
