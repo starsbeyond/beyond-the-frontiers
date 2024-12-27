@@ -54,7 +54,7 @@ Pool is a collection of souls available for commanders to stream into units. Com
 
 #### Ranking
 
-Every player, bothj commanders and souls, have their own rank in a faction. The once chosen faction can't be changed. Ranking and faction loyalty is calculated automatically and extensive statistics is being collected.
+Every player, both commanders and souls, have their own rank in a faction. The once chosen faction can't be changed. Ranking and faction loyalty is calculated automatically and extensive statistics is being collected.
 
 The ranking of a soul helps the system to pick the most suitable player to streaming into a particular unit.
 
