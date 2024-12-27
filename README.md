@@ -66,7 +66,7 @@ The ranking system and commanders/souls management is automatically performed by
 
 ### Orders and chain of command
 
-Commanders are responsible for strategy and orders. Souls are responsible for order execution. The order could be as simple as "destroy the target unit" or more complex as "conquer and hold on to the target territory".
+Commanders are responsible for strategy and orders. Souls, using a unit, are responsible for order execution. The order could be as simple as "destroy the target unit" or more complex as "conquer and hold on to the target territory".
 
 Souls are free to execute the order freely as long as the objective is followed, however if commanders are not satisfied with the performance of a particular unit, its connection could be immediately terminated and another soul requested from the pool or the AI will take over.
 
