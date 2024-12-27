@@ -20,7 +20,7 @@ A few post-scarcity factions warring with each other for influence. Resources ar
 
 ### Factions
 
-Initially only two races available, with ony one of them playable. The player-controlled race vs. AI. The AI race is both presented as an artificial intelligence in-game and will also be played by AI, with possible interference from game masters when needed for narrative purposes.
+Initially only two races are available, with ony one of them playable. The player-controlled race vs. AI. The AI race is both presented as an artificial intelligence in-game and will also be played by AI, with possible interference from game masters when needed for narrative purposes.
 
 #### Transcended
 
